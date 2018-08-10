@@ -1,0 +1,33 @@
+logs/
+npm-debug.log
+yarn-error.log
+node_modules/
+package-lock.json
+server/yarn.lock
+coverage/
+.idea/workspace.xml
+.idea/
+run/
+.DS_Store
+*.sw*
+*.un~
+
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+
+# testing
+
+# production
+build
+
+# misc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
